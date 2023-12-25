@@ -10,3 +10,4 @@ This repository contains my notes organized by topic.
 ## Topics
 
 - [AI](/ai)
+- [Physics](/physics)
