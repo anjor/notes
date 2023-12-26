@@ -4,8 +4,8 @@ This repository contains my notes organized by topic.
 
 ## Contents
 
-- [Index](index.md)
-- [Reading List](reading-list.md)
+- [Index](,/_index.md)
+- [Reading List](./_reading-list.md)
 
 ## Topics
 
