@@ -1,4 +1,4 @@
-# Reading List
+# Reading/Watching List
 
 ## AI
 
@@ -7,3 +7,4 @@
 
 ### Mixture of Experts
 - [Adaptive Mixture of Local Experts (1991)](https://www.cs.toronto.edu/~hinton/absps/jjnh91.pdf)
+- [ELeuther AI reading group](https://www.youtube.com/watch?v=Y2KFB_Cr4zA)
