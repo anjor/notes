@@ -2,7 +2,7 @@
 
 ## AI
 
-## Scaling
+### Scaling
 - [Will Scaling work?](https://www.dwarkeshpatel.com/p/will-scaling-work)
 
 ### Mixture of Experts
