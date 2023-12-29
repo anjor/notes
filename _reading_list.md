@@ -2,5 +2,8 @@
 
 ## AI
 
+## Scaling
+- [Will Scaling work?](https://www.dwarkeshpatel.com/p/will-scaling-work)
+
 ### Mixture of Experts
 - [Adaptive Mixture of Local Experts (1991)](https://www.cs.toronto.edu/~hinton/absps/jjnh91.pdf)
