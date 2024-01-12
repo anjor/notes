@@ -24,5 +24,5 @@ with Layer-Selective Rank Reduction](https://arxiv.org/pdf/2312.13558.pdf)
 ## Archive
 
 - [Retrieval-Augmented Generation for Large Language Models: A Survey](https://arxiv.org/pdf/2312.10997v1.pdf)
-  - Notes: 
+  - Notes: [2024/01/12](https://github.com/anjor/notes/blob/main/ai/rags.md#20240112)
 
